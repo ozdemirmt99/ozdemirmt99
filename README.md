@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
 <h3 align="center">Computer Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozdemirmt99&label=Profile%20view&color=56fb77&style=flat" alt="ozdemirmt99" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
