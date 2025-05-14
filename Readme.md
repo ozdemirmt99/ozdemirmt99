@@ -84,7 +84,7 @@
         <summary>VCS</summary>
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" /></a>
             <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="git" width="60" height="60" /></a>
-            <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://yt3.googleusercontent.com/R6P5skGdZJeM1bebvt3ILeU8k-9tiqE5T198RmBH8SoGXH2gk_Lk-45uZoq6X6pW4a4c9Sqn=s900-c-k-c0x00ffffff-no-rj" alt="git" width="60" height="60" /></a>
+            <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/GitLab_logo_%282%29.svg/250px-GitLab_logo_%282%29.svg.png" alt="git" width="auto" height="60" /></a>
         </details>
     </th>
     <th align="left" width="50%" >
